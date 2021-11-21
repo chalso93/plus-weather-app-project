@@ -100,3 +100,10 @@
   display: inline-block;
   max-width: 190px;
 }
+
+.githubLink {
+  display: block;
+  margin: 0 auto;
+  padding-left: 450px;
+  padding-top: 20px;
+}
